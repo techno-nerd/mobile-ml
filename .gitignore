@@ -1,0 +1,5 @@
+.DS_Store
+node_modules/
+v_env/
+__pycache__
+payload.json
